@@ -184,7 +184,7 @@
 		"ID": null
 	},
 	{
-		"NameResource": "Artist",
+		"NameResource": "Contributing Artist",
 		"SectionResource": "PropertySectionMusic",
 		"Property": "System.Music.DisplayArtist",
 		"IsReadOnly": true,
